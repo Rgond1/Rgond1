@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [demo](demo)
+- 👨‍💻 You can see my Portfolio [https://ravi-gond-portfolio.netlify.app/](https://ravi-gond-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [demo](demo)
 
